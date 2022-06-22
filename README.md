@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @penguinsb
-- 👀 I’m interested in ... well, i'm currently not interested in anything, but maybe someday!
-- 🌱 I’m currently learning how to make a basic Github page.
-- 💞️ I’m looking to collaborate on currently nobody, but again, maybe someday!
-- 📫 How to reach me, you currently can't... i'm still figuring out.
+- 👋 Hi, I’m Aaron / @penguinsb
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning.. I am just a beginner that can only do python.
+- 💞️ I’m looking to collaborate on.. well someone who can teach me how to code maybe?
+- 📫 How to reach me, well.. um.. you can't. Sorry.
 
 <!---
 penguinsb/penguinsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
